@@ -14,7 +14,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Updated the font style to something more whimsical and added a fun logo/icon */}
         <h1 className="text-2xl font-extrabold tracking-wide flex items-center">
-        <img src={dogImage} alt="dog" className="h-20 w-20 mr-2" /> %DogOnBike
+        <img src={dogImage} alt="dog" className="h-20 w-20 mr-2" /> $DogOnBike
         </h1>
         <div className="md:hidden">
           <button 

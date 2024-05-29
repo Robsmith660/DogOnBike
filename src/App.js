@@ -1,7 +1,6 @@
 import React from 'react';
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Seperator from './components/Seperator';
 import ContractAddressAndChart from './components/ContractAddressAndChart';
 import About from './components/About';
 import Buy from './components/Buy';
